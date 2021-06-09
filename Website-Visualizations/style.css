@@ -1,0 +1,43 @@
+img {
+  max-width: 100%;
+}
+p{
+    color: black;
+    text-align: left;
+}
+.col {
+    width: 100%;
+  } 
+.homebtn{
+    background-color: grey;
+    z-index:2;
+  }
+.header{
+    background-color: grey;
+    z-index:2;
+}
+.homebtn a{
+    width: 110px;
+    background: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    display: block;
+    padding: 14px;
+    margin: 0px 0px 0px 40px;
+  }
+.navbar{
+    position: absolute;
+    right: 30px;
+}
+
+.navbar a{
+  background-color:white;
+}
+body {
+    width: 100%;
+    min-height: 100%;
+    background-color: lightgray;
+}
